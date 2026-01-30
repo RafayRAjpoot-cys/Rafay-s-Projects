@@ -1,0 +1,5 @@
+7000
+7 2000 Expense Bill_Electricity
+6 1000 Expense Food
+5 5000 Income Salary
+4 5000 Income Salary
